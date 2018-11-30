@@ -1,0 +1,7 @@
+security:
+  basic:
+    enabled: false
+logging:
+  level:
+    io:
+      online: DEBUG
