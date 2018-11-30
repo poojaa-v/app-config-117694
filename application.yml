@@ -1,6 +1,6 @@
 security:
   basic:
-    enabled: true
+    enabled: false
 logging:
   level:
     io:
