@@ -4,4 +4,4 @@ security:
 logging:
   level:
     io:
-      online: DEBUG
+      online: INFO
