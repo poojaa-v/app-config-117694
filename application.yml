@@ -1,6 +1,15 @@
 security:
   basic:
     enabled: true
+management:
+  security:
+    enabled: true
+endpoints:
+    web:
+      exposure:
+        include: /actuator/refresh
+actuator:
+     enabled: true
 logging:
   level:
     io:
