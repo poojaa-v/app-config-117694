@@ -5,3 +5,6 @@ logging:
   level:
     io:
       online: DEBUG
+endpoints:
+  restart:
+    enabled: true
