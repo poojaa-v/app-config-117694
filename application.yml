@@ -10,4 +10,4 @@ actuator:
 logging:
   level:
     io:
-      online: INFO
+      online: DEBUG
