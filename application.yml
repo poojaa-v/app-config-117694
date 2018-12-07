@@ -10,4 +10,9 @@ actuator:
 logging:
   level:
     io:
-      online: INFO
+      online: DEBUG
+spring:
+  h2:
+    console:
+      settings:
+        web-allow-others: true
