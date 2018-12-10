@@ -10,8 +10,7 @@ actuator:
 logging:
   level:
     io:
-      online:
-        customer: DEBUG
+      online: DEBUG
 spring:
   h2:
     console:
